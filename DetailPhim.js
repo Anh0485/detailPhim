@@ -346,6 +346,48 @@ export default class DetailPhim extends Component {
                                                     </div>
                                                 </div>
                                             </div>
+                                            <div class="tab-conetnt float-left blockContent" id="listSection">
+                                                <div class="wrapOrder">
+                                                    <div class="ng-scope">
+                                                        <div class="wrapMovie panel">
+                                                            <div class="movieInfo" data-toggle="collapse" href="#">
+                                                                <img class="movieImage" src="https://s3img.vcdn.vn/123phim/2018/09/cgv-crescent-mall-15380174094679.jpg"></img>
+                                                                <div class="wrapInfo">
+                                                                    <div class="headInfo">
+                                                                        <span class="cinemaType">
+                                                                            <span class="colorCinema CGV">CGV</span>
+                                                                           
+                                                                        </span>
+                                                                    </div>
+                                                                    <p class="movieAddInfo">
+                                                                                <span class="left">Lầu 5, 
+                                                                                Crescent Mall Đại lộ Nguyễn Văn Linh, 
+                                                                            Phú Mỹ Hưng Quận 7 
+                                                                            TP. Hồ Chí Minh</span>
+                                                                                <span class="textShowMap" data-address="Lầu 5, 
+                                                                                Crescent Mall Đại lộ Nguyễn Văn Linh, 
+                                                                                Phú Mỹ Hưng Quận 7 TP. Hồ Chí Minh" >
+                                                                                        [Bản đồ]
+                                                                                </span>
+                                                                            </p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="movieSection " id="date-20200523-cineme-306">
+                                                                <div class="listTypeTime">
+                                                                    <div class="s-version">2D Digital</div>
+                                                                    <div class="session">
+                                                                        <a target="_blank">
+                                                                            <span class="s-star-time">19:40</span>
+                                                                            <span class="visible-xs">~ 21:30</span>
+                                                                        </a>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        
+                                                    </div>
+                                                </div>
+                                            </div>
                                         </div>
 
                                     </div>
